@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Garrett, I'm a Software Engineer.
 
 <!--
 **GretSeat/GretSeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
