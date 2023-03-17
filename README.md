@@ -1,5 +1,8 @@
 ### Hi there 👋
 I'm Garrett, I'm a Software Engineer.
+<p align="center">
+  <img src="https://www.codewars.com/users/GretSeat/badges/large">
+</p>
 
 <!--
 **GretSeat/GretSeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
