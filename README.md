@@ -1,13 +1,10 @@
-### Hi there 👋
-I'm Garrett, I'm a Software Engineer.
-<p align="center">
-  <img src="https://www.codewars.com/users/GretSeat/badges/large">
-</p>
-
 <h1 align="center">Hi 👋, I'm Garrett</h1>
 <h3 align="center">A Full Stack Web Developer / Designer</h3>
 
 <p align="center"> <a href="https://twitter.com/gretseatdev" target="blank"><img src="https://img.shields.io/twitter/follow/gretseatdev?logo=twitter&style=for-the-badge" alt="gretseatdev" /></a> </p>
+<p align="center">
+  <img src="https://www.codewars.com/users/GretSeat/badges/large">
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
