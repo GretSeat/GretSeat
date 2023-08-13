@@ -34,5 +34,4 @@
 <p align="center">
   <img src="https://www.codewars.com/users/GretSeat/badges/large">
 </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gretseat&theme=dark" alt="gretseat" /></p>
 
