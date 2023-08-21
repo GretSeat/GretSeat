@@ -9,7 +9,6 @@
   </br>
   No one told me that coding would become an addiction, and the only prescription is to code more.
 </p>
-<p align="center"> <img src="https://streak-stats.demolab.com?user=GretSeat&theme=dark"/></p>
 
 <p align="center"> <a href="https://twitter.com/gretseatdev" target="blank"><img src="https://img.shields.io/twitter/follow/gretseatdev?logo=twitter&style=for-the-badge" alt="gretseatdev" /></a> </p>
 
