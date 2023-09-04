@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Garrett</h1>
 <h3 align="center">A Full Stack Web Developer / Designer</h3>
 <p align="left">
-  Previously a Real Estate Agent, an Actor in Hollywood, and Waiter for 16+ years, I am now leaning in to my love for computers, and my passion to create websites and applications that can benefit users on a daily basis. 
+  Previously a Real Estate Agent, an Actor in Hollywood, and Waiter for 16+ years, I am now leaning into my love for computers, and my passion to create websites and applications that can benefit users on a daily basis. 
   </br>
   </br>
   I've noticed when I'm not coding, I am thinking about coding, and probably sitting on Figma jotting out designs for another new website, and helping those that follow me on Social Media get an updated website that matches their personality, and their needs.
