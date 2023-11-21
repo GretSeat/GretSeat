@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garrett</h1>
-<h3 align="center">A Full Stack Web Developer / Designer</h3>
+<h3 align="center">A Full Stack Web Developer using the MERN stack and C# with .NET</h3>
 <p align="left">
   Previously a Real Estate Agent, an Actor in Hollywood, and Waiter for 16+ years, I am now leaning into my love for computers, and my passion to create websites and applications that can benefit users on a daily basis. 
   </br>
